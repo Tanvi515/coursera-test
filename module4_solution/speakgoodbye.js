@@ -6,4 +6,4 @@
 	
 	window.byeSpeaker = byeSpeaker;
 
-};
+})(window);
